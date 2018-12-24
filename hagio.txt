@@ -1,2 +1,4 @@
 one #include <stdio.h>
 two int main() {
+three int i, sum;
+four
